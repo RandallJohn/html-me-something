@@ -1,8 +1,8 @@
 a:hover {
-    color: black;
+    color: red
     font-weight: bold;
-    text-decoration: none;
-    }
+    text-decoration: none
+}
 
 figcaption{
     font-family: cursive;
